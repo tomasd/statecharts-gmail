@@ -11,7 +11,7 @@
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.clojure/clojurescript "1.10.238"]
                  [org.clojure/core.async  "0.4.474"]
-                 [statecharts "0.2.0"]
+                 [statecharts "0.2.1"]
 
                  [reagent "0.7.0"]
                  [re-frame "0.10.5"]
